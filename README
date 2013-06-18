@@ -18,3 +18,27 @@ functionalities at the original version.
 I'm an avid user of Kodos, and as it was the latest software on my computer
 which was using Qt3, I thought it was a nice idea to give it a new life; also, I
 wanted for a long time to give PyQt4 a try, so, here it is!
+
+Kodos-Qt4 is licensed under the term of the Simplified BSD License.
+
+How to run Kodos-Qt4?
+---------------------
+
+If you want to give it a try, you can do the following::
+
+    $ git clone git://github.com/multani/kodos-qt4
+    $ cd kodos-qt4
+    $ ./run-kodos
+
+What is the status of Kodos-Qt4?
+--------------------------------
+
+This project is mostly in stand-by at the time of writing. The rewrite is not
+complete, although it should be functional for the most important part, but
+there are still quite a lot of things lacking.
+
+There are alternative ports, like https://github.com/luksan/kodos which is a
+direct port from Qt3 to Qt4 of the original code base.
+
+If you feel like contributing to this project, feel free to send me pull
+requests, patches, or antyhing else, I'll glady include them!
